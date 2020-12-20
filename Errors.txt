@@ -1,0 +1,4 @@
+Decision Tree
+Random Forest
+Logistic Regression
+SVM
