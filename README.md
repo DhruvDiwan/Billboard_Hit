@@ -15,3 +15,8 @@ The models used were:
 -	Gradient Boosting DT (GBDT)
 -	SVM
 -	Neural Network
+
+We have provided npy files for the 2 different transformations of the data set:
+1. MinMax Scaled version
+2. Standard Scalar version
+3. Original dataset
